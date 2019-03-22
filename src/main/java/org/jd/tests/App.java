@@ -14,5 +14,6 @@ public class App
     public static void main( String[] args )
     {
         logger.log(Level.INFO, "Hello World!" );
+        System.out.println("Let's add some message in standard output!" );
     }
 }
